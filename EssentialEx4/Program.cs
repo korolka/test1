@@ -12,6 +12,7 @@ namespace EssentialEx4
         {
             MyClass myClass = new MyClass();
             myClass.Method();
+            Console.WriteLine("Something");
             
         }
     }
