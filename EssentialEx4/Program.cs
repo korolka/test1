@@ -14,6 +14,7 @@ namespace EssentialEx4
             myClass.Method();
             Console.WriteLine("Something");
             Console.WriteLine("Something2");
+            Console.WriteLine("Something3for git hub");
 
         }
     }
